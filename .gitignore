@@ -1,0 +1,61 @@
+# Python environments and caches
+.venv/
+venv/
+env/
+ENV/
+.conda/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.coverage
+htmlcov/
+
+# Build artifacts (including ROS 2 / colcon)
+build/
+dist/
+install/
+log/
+logs/
+
+# Datasets and generated experiment runs
+data/
+dataset/
+datasets/
+MNIST/
+CIFAR10/
+cifar-10-batches-py/
+runs/
+wandb/
+mlruns/
+
+# Model artifacts: add selected small weights explicitly if appropriate
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.h5
+*.safetensors
+*.bag
+*.db3
+*.mcap
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+secrets.json
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
