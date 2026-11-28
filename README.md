@@ -12,7 +12,7 @@
 
 当前仅完成仓库初始化，下列培训任务均未验收。完成实践、补齐交付物并自检后再勾选。
 
-- [ ] [A.1 基础环境与 AI 工具配置](A1_Base_and_AI_Tool/report.md)
+- [ ] [A.1 基础环境与 AI 工具配置](A1_Base_and_AI_Tool/report%EF%BC%88%E7%94%B1%E4%BA%8E%E8%80%83%E8%AF%95%E5%92%8C%E5%A4%A7%E6%8C%91%E8%80%BD%E8%AF%AF%E4%BA%86%E4%B8%80%E4%BA%9B%E4%BA%9B%EF%BC%8C%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0%E4%B8%AD%EF%BC%89.md)
 - [ ] [B.1 OpenCV 基础图像处理与人脸模糊](B1_OpenCV_Basics/report.md)
 - [ ] [C.1 MNIST：MLP 与 CNN 对比实验](C1_MNIST_Comparison/report.md)
 - [ ] [B.2 YOLO 目标检测全流程](B2_YOLO_Detection/report.md)
@@ -30,7 +30,7 @@ zhize-training-2026/
 ├── A1_Base_and_AI_Tool/
 │   ├── src/
 │   ├── images/
-│   └── report.md
+│   └── report（由于考试和大挑耽误了一些些，持续更新中）.md
 ├── B1_OpenCV_Basics/
 │   ├── src/
 │   ├── images/
